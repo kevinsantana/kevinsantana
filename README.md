@@ -5,10 +5,10 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinsantana)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ksaraujo)
 
-Passionate about mathematics, programming and information theory. Computer Engineer graduated from Centro Universitário IESB, python developer for 3 years, currently Senior Python Developer at Tivit. 
+Passionate about mathematics, programming and information theory. Computer Engineer graduated from Centro Universitário IESB, python developer for 3 years, currently Python Back-End Developer at Mercado Bitcoin. 
 
 - 🔭 I’m currently working on on Python 🐍, K8S and VueJS projects
-- 🌱 I’m currently learning VueJS, C++ and error correction codes
+- 🌱 I’m currently learning Go, VueJS, C++ and error correction codes
 - 👯 I’m looking to collaborate on information theory, mathematics and open source projects (free as in freedom)
 - 💬 Ask me about the question of life, the universe, and everything
 - 📫 How to reach me: Linkedin and Telegram
